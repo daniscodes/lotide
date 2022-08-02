@@ -8,7 +8,7 @@ const tail = require("../tail");
 // assertEqual(result[0], "Lighthouse"); // ensure first element is "Lighthouse"
 // assertEqual(result[1], "Labs"); // ensure second element is "Labs"
 
-describe("#tail", () => {
+describe("tail", () => {
   const result = ["Hello", "Lighthouse", "Labs"];
   it("returns 3 for result.length", () => {
     assert.strictEqual((result.length), 3);

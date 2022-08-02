@@ -7,7 +7,7 @@ const head = require('../head');
 // assertEqual(head(["One"]), "One");
 // assertEqual(head([]), "Hello");
 
-describe("#head", () => {
+describe("head", () => {
   it("returns 1 for [1, 2, 3]", () => {
     assert.strictEqual(head([1, 2, 3]), 1);
   });
