@@ -13,5 +13,4 @@ const assertArraysEqual = function (arr1, arr2) {
 
 };
 
-console.log(assertArraysEqual([1,2,3], [2,3,4]))
-console.log(assertArraysEqual([1,2,3], [1,2,3]))
+module.exports = assertArraysEqual
