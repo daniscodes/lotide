@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "danielconte",
   "version": "1.0.0",
-  "description": "",
+  "description": "a remake of the lodash library for practice",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/daniscodes/lotide.git"
   },
-  "author": "",
+  "author": "daniel conte :)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/daniscodes/lotide/issues"
